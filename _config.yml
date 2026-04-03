@@ -1,3 +1,6 @@
+baseurl: "/Docs"
 exclude:
 - games/
 - images/
+- storage/
+plugins: []
